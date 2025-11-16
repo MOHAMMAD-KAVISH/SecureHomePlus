@@ -62,7 +62,7 @@ utils/
 ## 🔧 Setup
 
 Clone the project:
-git clone https://github.com/nandinitak/Android-application-Secure-home-plus
+git clone https://github.com/MOHAMMAD-KAVISH/SecureHomePlus
 
 
 Add your Google Maps API key in `AndroidManifest.xml`:
@@ -88,7 +88,4 @@ Mohammad Kavish – Lead Android Developer
 ⭐ Support
 If you like this project, please give the repository a star ⭐.
 
-
 ---
-
-Let me know if you want a **project banner**, **badges**, or a **short GitHub description line** too!
